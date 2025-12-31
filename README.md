@@ -7,16 +7,6 @@
 A Machine Learning project that predicts the **price of used cars** based on features like year, mileage, fuel type, transmission, and more.  
 Built using **Python, Pandas, NumPy, Scikit-learn, and Visualization libraries**.  
 
----
-
-## ✨ Demo Preview  
-
-📊 Example Visualizations (replace with your actual images):  
-
-<p align="center">
-  <img src="visuals/heatmap.png" alt="Heatmap" width="400"/>  
-  <img src="visuals/regression_plot.png" alt="Regression Plot" width="400"/>  
-</p>
 
 ---
 
